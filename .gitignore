@@ -1,1 +1,6 @@
 .nfs*
+*.jugdata/
+*.out
+ToyCar/
+ToyConveyor/
+ToyTrain/
